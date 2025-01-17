@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+New to JavaScript and just wanna make stuff. Critisism is appreciated and taken into cansideration. Pretty good a coding json files though. If you need help with Minecraft Bedrock Resourse Pack creation I can help. I am also willing to to help make 3d models for almost anything. I don't exactly know what I want to make, but I want to make something.
+
+”Two things are **infinite**: **the universe** and **human stupidity**; and I'm not so sure about the universe“ 
+
+—Albert Einstein
